@@ -3,8 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BU Girls Skate</title>
-    <!-- Add links to your CSS framework or custom stylesheets here -->
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
