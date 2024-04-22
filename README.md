@@ -18,10 +18,11 @@
 </header>
 
 <main>
-    <section id="about">
-        <h2><a href="https://instagram.com/bugirlsskate" target="_blank">About Us</a></h2>
-        <p>Welcome to BU Girls Skate, an organization committed to creating a welcoming safe space for women and nonbinary individuals to skate. Whether you're a seasoned pro or a complete beginner, everyone is welcome here!</p>
-    </section>
+  <section id="about">
+    <h2><a href="https://instagram.com/bugirlsskate" target="_blank">About Us</a></h2>
+    <p>Welcome to BU Girls Skate, an organization committed to creating a welcoming safe space for women and nonbinary individuals to skate. Whether you're a seasoned pro or a complete beginner, everyone is welcome here!</p>
+</section>
+        
 
 
 </main>
