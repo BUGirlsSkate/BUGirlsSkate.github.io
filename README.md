@@ -13,7 +13,7 @@
     <section id="about">
         <h2>About Us</h2>
         <p>Welcome to BU Girls Skate, an organization committed to creating a welcoming safe space for women and nonbinary individuals to skate. Everyone is welcome here, whether you're a pro or a complete beginner!</p>
-![girlskate](https://github.com/BUGirlsSkate/BUGirlsSkate.github.io/assets/167826529/6e11b41f-a6a9-411f-8a80-02105341a17a)
+![girlskate](https://github.com/BUGirlsSkate/BUGirlsSkate.github.io/assets/167826529/7d248d9d-2943-4213-ae16-fb7e2fd51b04)
 
 <footer>
     <p>Copyright &copy; 2024 BU Girls Skate. All rights reserved.</p>
