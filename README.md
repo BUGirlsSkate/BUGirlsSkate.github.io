@@ -22,7 +22,6 @@
 <main>
     <section id="about">
         <h2>About Us</h2>
-        ![girlskate](https://github.com/BUGirlsSkate/BUGirlsSkate.github.io/assets/167826529/48fef7e8-5aa1-46c0-a48c-85c3245e6be1)
         <p>Welcome to BU Girls Skate, an organization committed to creating a welcoming safe space for women and nonbinary individuals to skate. Whether you're a seasoned pro or a complete beginner, everyone is welcome here!</p>
 </main>
 
