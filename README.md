@@ -19,4 +19,4 @@
 <footer>
     <p>Copyright &copy; 2024 BU Girls Skate. All rights reserved.</p>
 </footer>
-</html>
+
