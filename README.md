@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <header>
     <h1>BU Girls Skate</h1>
